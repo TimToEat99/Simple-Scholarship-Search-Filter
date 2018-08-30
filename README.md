@@ -1,2 +1,2 @@
 # Scholarship Filter React App
-A simple React outline for for a scholarship search filter web application.
+A simple and rough React outline for for a scholarship filter web application.
